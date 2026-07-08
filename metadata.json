@@ -1,0 +1,6 @@
+{
+  "name": "SonicPad",
+  "description": "A premium, customizable 16-pad audio sampler, synthesizer, and drum machine with real-time waveform generation and rich LED themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
